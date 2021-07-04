@@ -6,10 +6,8 @@ https://www.kaggle.com/lakidataguy/eda-and-data-visualisation
 
 Feel free to check it out in kaggle to run and see the output.
 
-Below are the Visualisations I made in this notebook.
+Below are some of the Visualisations I made in this notebook.
 
-![EDA 1](https://user-images.githubusercontent.com/86901909/124394120-8dee6b00-dd1b-11eb-9b6f-fca364ff9940.png)
-![EDA 2](https://user-images.githubusercontent.com/86901909/124394121-8e870180-dd1b-11eb-9fab-4622076ebc83.png)
 ![Customer Purchhase Journey Funnel](https://user-images.githubusercontent.com/86901909/124394149-bb3b1900-dd1b-11eb-90e9-b6b12dcc065c.png)
 ![Website visits per day](https://user-images.githubusercontent.com/86901909/124394174-d73eba80-dd1b-11eb-84dc-2c26af8c2c0f.png)
 ![SAles,#of orders and Ticketsize per day](https://user-images.githubusercontent.com/86901909/124394163-cd1cbc00-dd1b-11eb-9698-4fb76f0341aa.png)
