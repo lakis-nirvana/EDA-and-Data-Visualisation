@@ -1,5 +1,5 @@
 # EDA-and-Data-Visualisation
-This is my first project which is related to Ecommerce website data. I have used Python to code and used Jupitor notebook. I have used packages like Pandas, datetime, missingo to do Exploratory data analysis and plotly for data visualisation.
+This is my first project which is based on Ecommerce website data. I have used Python to code and used Jupitor notebook. I have used packages like Pandas, datetime, missingo to do Exploratory data analysis and plotly for data visualisation.
 
 This notebook is available in kaggle as well.
 https://www.kaggle.com/lakidataguy/eda-and-data-visualisation
